@@ -17,8 +17,8 @@ joshuayang@joshuas-mbp% neofetch
                             #G#######S#Q#8Q8G###NN###~              working-on
                           #S#l#########$Q###@#" @###N               ---------------------
                         ,#QSSQ#######b$#G##C    j####               grinding-cf
-              @#Nw,,,#####b#####S##Q##@@M        ####               portfolio-site
-             \######GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
+                   ,,#####b#####S##Q##@@M        ####               portfolio-site
+                  ##GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
                "}G###SQ#Q#bG$WG@G@@###M       #####"
              a#Q####@#Q3#bN`a",4##@###  m    ###@C                  extra-info
             "*bG8####QG#GG8G# ,###Q@#    %#####"                    ----------------------
