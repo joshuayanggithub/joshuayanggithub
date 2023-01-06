@@ -1,43 +1,34 @@
 ### About Me
+``` console
+joshuayang@joshuas-mbp% neofetch
 
+                                         ,a,,                       joshua@yang-github
+                                        ]######N                    --------------------
+                                       ##@##S@###                   uptime: 16 years old,
+                                       @@SGl####b                   hobbies: coding+biking+soccer
+                                       #########                    learning: comp_coding+webdev+nvim
+                                       @@@#####                     location: the-bay@USA
+                                        ######Q                     
+                                   apN###NNNNNNw,,                  contact-info
+                                 ,##QQ7@####S$GS####p               ---------------------     
+                                ;J(p-~Ci@###########$               slack+imessages+email
+                               #G##G##NDb;8QQ###$#S@#b              jyangftw@gmail.com
+                             ##########Q#Q8Q$G5G##8#@b
+                            #G#######S#Q#8Q8G###NN###~              working-on
+                          #S#l#########$Q###@#" @###N               ---------------------
+                        ,#QSSQ#######b$#G##C    j####               grinding-cf
+              @#Nw,,,#####b#####S##Q##@@M        ####               portfolio-site
+             \######GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
+               "}G###SQ#Q#bG$WG@G@@###M       #####"
+             a#Q####@#Q3#bN`a",4##@###  m    ###@C                  extra-info
+            "*bG8####QG#GG8G# ,###Q@#    %#####"                    ----------------------
+         ,###N#GGG8##lb,-,  "@##@##\     `W###b                     $ %&. * $#. Q(. (@#$
+        #####NpG8G$######N##b,@b@~    ,##bp `^                      $Com$in%g So$on#
+       {####@###N##########Q1#####S####$#WplNwp,                    *#$ ( )!# & % ( ~2./ ( #
+       3###################N Q####QQQQ@QQQ#GSSSG##                  #$  #$ @( #+_)).  # @
+         "`7"^``     "%WWW%5*f""""^^"        ```""^                 
 
-                                                 ..........                                     
-                                              ....   ..   ...                                   
-                                             ... .^~7555J~  ...                                 
-                                           ...  ~GGPPPG#&&G^  .              Joshua@Yang
-                                          ..  ~JP#G5PGGGB#@B  ..             ----------------------------------------------
-                                          .. ^BBGBGGGPGGB#@5  ..             Uptime: 16 Yrs
-                                      ...... ~&#B#BBBGGB&&@J  :.             Learning: Comp Coding, Webdev, Nvim, more CLI
-                                   ....   .  .^!G&#BGGB&&&@G  :.             Hobbies: Coding, Soccer, Biking
-                                 ...  .~!!~~^^^7#&BGGGB&@@&?  :              Location: Bay@USA
-                                ... .JGGY?!?YY5GBBBBBGGG5Y!  ..                                 
-                             ....  ^B&BPPPP5PPGBGBBGPGG5?!^.  ..             Contact@Me
-                         .....  .!5#&&#BBBBBBBBBBBB5??PBBBBP~  ..            ----------------------------------------------
-          .....      .....    :?B&@@@&BBBBBBBBBBBBBBBGGBBBBBG~  ..           Slack/Phone#/Email
-        ...   ........   .~7J5B&&@&#BBBBBBBBBBBBBBBBBBBBBBBBBP^  :.                             
-        .. :!   ..   .^!YPBB#&&&G?^^PBBBBBBBBBBBBBBBBBB#&#BBBGJ. ...                            
-     ....   ?Y!:.:^7YPB###BBG5?^  .5BBBBBBBBBBBBBBBBBB#GY#&#BBP7.  ..                           
-    ..  .:~7J55Y?5BBGPYJ7~^:     ~P#B##BB#BBB#BBBBBBBP!  ^B&##BGY.  ..                          
-    .. :~JYYY??7!~^:.     ...:. :B##########BB##BBBP!  .. .JG#&GYJ^  ....                       
-    ...  :~!!:.    ....... ..  ^5&&###########BB##J.  ....  .~5&GYY?^.  ...                     
-      ...  .  .....       .:  ~#&&##############B#5~  :  ....  ?#GY55Y!. ...                    
-        .......         ...   G&############BBB#BG#J  :.    ..  ^5BGGPPJ^  ...                  
-                       ..  ^?P#&&####BBBB#####BBB#B: ..      ...  ^JGBGPPJ^  ......             
-                      .:  7&&##########B#B#BBBBBPBG: ..        ...  .~YGBBPJ.     .....         
-                     ... .G##########&&&&&###BBBY!Y~  :          ....  .75GJ~!~^!^::. ..        
-                    ..  .P#BB########&@@&&####BBG?Y!  ..            ....  .~PPPPPG!:  ..        
-                   ..  :5#B#########&&#&&&&&&#BGPGGG?  ..              ...  ^JYJ55J^  ..        
-                   :  ^G#BB########&P:.!#&&&&#GP555PP. ..                ... .7YYP57  ..        
-                  .. .B&#BB########?    J&&@&&BGP55PY  ..       ..         ..  ^:~:  ..         
-                 ..  Y&#BBGBB#&&##5  .!7J&@@@&#BGP5PP:  ....................... . ....          
-                .:  !&##BBBBGBP!~~^!^:7YY5??JG&#BBGPP?::.  ...  .           .......             
-                .. :B&#BBBBBB5!?JY557!!JPY7^ :B&##BPPP55Y?~   ... .^^^^:^~^:.  ...              
-                .. ~#&######P5J?!~^::~7?7!~:  :G&&#GPPPGGGP7.^~~^::?YJJJYYYY?!. ..              
-                ..  :^~~~^^^:::   ...      ...  ?5PGPPPP5PJ7^~::::.::::^^^^^^:. ..              
-                 .....  ........................   .....      ...................               
-                       .                      ...................           .                   
-
-
+```
 
 ### Coding Experience
 
