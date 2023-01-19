@@ -10,13 +10,13 @@ joshuayang@joshuas-mbp% neofetch
                                        @@@#####                     location: the-bay@USA
                                         ######Q                     
                                    apN###NNNNNNw,,                  contact-info
-                                 ,##QQ7@####S$GS####p               ---------------------     
-                                ;J(p-~Ci@###########$               slack+imessages+email
-                               #G##G##NDb;8QQ###$#S@#b              jyangftw@gmail.com
-                             ##########Q#Q8Q$G5G##8#@b
-                            #G#######S#Q#8Q8G###NN###~              working-on
-                          #S#l#########$Q###@#" @###N               ---------------------
-                        ,#QSSQ#######b$#G##C    j####               grinding-cf
+                                  ##QQ7@####S$GS####p               ---------------------     
+                                 J(p-~Ci@###########$               slack+imessages+email
+                               $G##G##NDb;8QQ###$#S@#b              jyangftw@gmail.com
+                             $%##########Q#Q8Q$G5G##8#
+                           )#G#######S#Q#8Q8G###NN###~              working-on
+                        *&#S#l#########$Q###@#" @###N               ---------------------
+                      #$,#QSSQ#######b$#G##C    j####               grinding-cf
                    ,,#####b#####S##Q##@@M        ####               portfolio-site
                   ##GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
                "}G###SQ#Q#bG$WG@G@@###M       #####"
