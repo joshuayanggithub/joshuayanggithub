@@ -5,18 +5,18 @@ joshuayang@joshuas-mbp% neofetch
                                          ,a,,                       joshua@yang-github
                                         ]######N                    --------------------
                                        ##@##S@###                   uptime: 16 years old,
-                                       @@SGl####b                   hobbies: coding+biking+soccer
-                                       #########                    learning: comp_coding+webdev+nvim
+                                       @@SGl####b                   hobbies: coding+biking+soccer-exploring
+                                       #########                    learning: comp_coding+webdev
                                        @@@#####                     location: the-bay@USA
                                         ######Q                     
                                    apN###NNNNNNw,,                  contact-info
                                   ##QQ7@####S$GS####p               ---------------------     
-                                 J(p-~Ci@###########$               slack+imessages+email
+                                 J(p-~Ci@###########$               imessages+email
                                $G##G##NDb;8QQ###$#S@#b              jyangftw@gmail.com
                              $%##########Q#Q8Q$G5G##8#
                            )#G#######S#Q#8Q8G###NN###~              working-on
                         *&#S#l#########$Q###@#" @###N               ---------------------
-                      #$,#QSSQ#######b$#G##C    j####               grinding-cf
+                      #$,#QSSQ#######b$#G##C    j####               cf-usaco
                    ,,#####b#####S##Q##@@M        ####               portfolio-site
                   ##GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
                "}G###SQ#Q#bG$WG@G@@###M       #####"
