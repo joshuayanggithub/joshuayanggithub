@@ -4,28 +4,28 @@ joshuayang@joshuas-mbp% neofetch
 
                                          ,a,,                       joshua@yang-github
                                         ]######N                    --------------------
-                                       ##@##S@###                   uptime: 16 years old,
-                                       @@SGl####b                   hobbies: coding+biking+soccer-exploring
-                                       #########                    learning: comp_coding+webdev
-                                       @@@#####                     location: the-bay@USA
+                                       ##@##S@###                   uptime: 17 years
+                                       @@SGl####b                   location: the-bay@USA
+                                       #########                    
+                                       @@@#####                     
                                         ######Q                     
-                                   apN###NNNNNNw,,                  contact-info
-                                  ##QQ7@####S$GS####p               ---------------------     
-                                 J(p-~Ci@###########$               imessages+email
-                               $G##G##NDb;8QQ###$#S@#b              jyangftw@gmail.com
+                                   apN###NNNNNNw,,                  
+                                  ##QQ7@####S$GS####p               
+                                 J(p-~Ci@###########$               
+                               $G##G##NDb;8QQ###$#S@#b              
                              $%##########Q#Q8Q$G5G##8#
-                           )#G#######S#Q#8Q8G###NN###~              working-on
-                        *&#S#l#########$Q###@#" @###N               ---------------------
-                      #$,#QSSQ#######b$#G##C    j####               cf-usaco
-                   ,,#####b#####S##Q##@@M        ####               portfolio-site
-                  ##GQ@#S##QQQ$@QQ##@@#~       ;###@b               learning
+                           )#G#######S#Q#8Q8G###NN###~              
+                        *&#S#l#########$Q###@#" @###N               
+                      #$,#QSSQ#######b$#G##C    j####               
+                   ,,#####b#####S##Q##@@M        ####               
+                  ##GQ@#S##QQQ$@QQ##@@#~       ;###@b               
                "}G###SQ#Q#bG$WG@G@@###M       #####"
-             a#Q####@#Q3#bN`a",4##@###  m    ###@C                  extra-info
-            "*bG8####QG#GG8G# ,###Q@#    %#####"                    ----------------------
-         ,###N#GGG8##lb,-,  "@##@##\     `W###b                     $ %&. * $#. Q(. (@#$
-        #####NpG8G$######N##b,@b@~    ,##bp `^                      $Com$in%g So$on#
-       {####@###N##########Q1#####S####$#WplNwp,                    *#$ ( )!# & % ( ~2./ ( #
-       3###################N Q####QQQQ@QQQ#GSSSG##                  #$  #$ @( #+_)).  # @
+             a#Q####@#Q3#bN`a",4##@###  m    ###@C                  
+            "*bG8####QG#GG8G# ,###Q@#    %#####"                    
+         ,###N#GGG8##lb,-,  "@##@##\     `W###b                     
+        #####NpG8G$######N##b,@b@~    ,##bp `^                      
+       {####@###N##########Q1#####S####$#WplNwp,                    
+       3###################N Q####QQQQ@QQQ#GSSSG##                  
          "`7"^``     "%WWW%5*f""""^^"        ```""^                 
 
 ```
